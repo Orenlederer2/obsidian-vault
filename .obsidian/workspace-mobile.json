@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "לקוחות/לקוחות.md",
+                "file": "משימות מחר.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "לקוחות"
+              "title": "משימות מחר"
             }
           }
         ],
@@ -127,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "לקוחות/לקוחות.md",
+            "file": "משימות מחר.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -185,6 +185,11 @@
   },
   "active": "298c7ea273b3dc72",
   "lastOpenFiles": [
+    "מעקב יומי.md",
+    "שיווק.md",
+    "פרויקטים.md",
+    "משימות מחר.md",
+    "git.md",
     "מעקב יומי/יומן משימות.md",
     "לקוחות/לקוחות.md",
     "לקוחות/Untitled",
